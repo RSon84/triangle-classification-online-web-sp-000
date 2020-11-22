@@ -1,4 +1,4 @@
-class Triangle	class Triangle
+class Triangle
   attr_reader :a, :b, :c	  # write code here
   def initialize(a, b, c)
     @a = a
